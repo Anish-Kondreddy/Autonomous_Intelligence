@@ -1,0 +1,3 @@
+# Only needed for ml/prolonged_presence_ml.py (Week 5 ML investigation).
+# Kept separate from requirements.txt so the core engine stays dependency-free.
+scikit-learn

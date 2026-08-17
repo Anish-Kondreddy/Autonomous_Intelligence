@@ -1,0 +1,3 @@
+# Core Event Intelligence Engine has zero external dependencies -- it's
+# pure Python (dataclasses, collections). This file only covers testing.
+pytest
