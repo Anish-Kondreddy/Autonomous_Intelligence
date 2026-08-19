@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import Dict, List, Tuple
 
-
+# Might need to consider it being exactly on a polygon line or a vertex, usually not an issue as float
 @dataclass
 class Zone:
     name: str
